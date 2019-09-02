@@ -15,7 +15,8 @@
     <script src="/Scripts/knockout-1.2.0.js" type="text/javascript"></script>
     <script src="/Scripts/knockout.mapping-latest.js" type="text/javascript"></script>
     <script src="/Scripts/jquery-ui-1.8.11.js" type="text/javascript"></script>
-</head>
+<%sample%>
+    </head>
 <body>
 <form method="post" action="CreateServiceTickets">
 Create
