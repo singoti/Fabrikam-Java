@@ -7,7 +7,7 @@
 
 <head>
 <meta charset="utf-8" />
-
+<%sample change%>
 <link rel="shortcut icon"
 	href="${pageContext.request.contextPath}/content/images/favicon.ico" />
 
